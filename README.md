@@ -1,4 +1,4 @@
-# Proyecto: Asociatividad y Precedencia
+# Asociatividad y Precedencia
 
 Este proyecto contiene dos programas en Python que implementan:
 
